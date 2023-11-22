@@ -1,4 +1,5 @@
 package org.example;
 
-public class UsuarioDaoImpl {
+public class UsuarioDaoImpl implements UsuarioDao{
+
 }
