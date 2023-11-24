@@ -5,5 +5,5 @@ public class Usuario {
     String usuario;
     String nombre;
 
-
+    int edad;
 }
